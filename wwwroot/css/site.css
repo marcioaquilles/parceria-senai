@@ -21,3 +21,9 @@ html {
 body {
     margin-bottom: 60px;    
 }
+
+.logo img {
+    width: 150px;       
+    margin-bottom: 20px;  
+    background-color: transparent;  
+}
